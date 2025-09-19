@@ -6,3 +6,4 @@ datum"ma"
 print(datum)
 c = "Kristóf" 
 print(c)
+d = 12
