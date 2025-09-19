@@ -4,3 +4,4 @@ a = 12
 datum"ma"
 print(datum)
 c = "Kristóf" 
+print(c)
