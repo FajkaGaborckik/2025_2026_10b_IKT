@@ -1,7 +1,7 @@
 print("orai munka")
-nev = "Anyú"
+nev = "Apú"
 b = true
-a = 12
+a = 13
 datum"ma"
 print(datum)
 c = "Kristóf" 
