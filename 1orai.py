@@ -7,4 +7,4 @@ print(datum)
 c = "Kristof" 
 print(c)
 d = 12
-n = 20
+n = 22
