@@ -8,3 +8,4 @@ c = "Kristof"
 print(c)
 d = 12
 n = 22
+print(d)
