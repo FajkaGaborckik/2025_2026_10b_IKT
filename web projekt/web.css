@@ -1,4 +1,35 @@
-#tav1{
-bordercolor black ;
+#fotab{
+border: 2px solid black;
+    margin-left: 60px;
+    padding-left: 100px;
+    padding-top: 100px;
+    margin-top: 50px;
 
+}
+
+
+#tab1{
+  border: 2px solid black;
+    margin-left: 60px;
+    padding-left: 100px;
+    padding-top: 70px;
+    margin-top: 50px;
+}
+
+#tab2{
+     border: 2px solid black;
+    margin-left: 60px;
+    padding-left: 100px;
+    padding-top: 80px;
+    margin-top: 50px;
+    
+}
+
+#tab3{
+
+    border: 2px solid black;
+    margin-left: 60px;
+    padding-left: 100px;
+    padding-top: 80px;
+     margin-top: 10px;
 }
