@@ -10,30 +10,32 @@ border: 2px solid black;
 
 #tab1{
   border: 2px solid black;
-    margin-left: 840px;
-    padding-left: 100px;
-    padding-top: 19px;
+    margin-left: 20px;
+    padding-left: 85px;
+    padding-top: 18px;
     margin-top: 60px;
-    margin-right: 840px;
-    
+    margin-right: 2100px;
+   
 }
 
 #tab2{
      border: 2px solid black;
-    margin-left: 860px;
-    padding-left: 100px;
-    padding-top: 80px;
-    margin-top: 50px;
-    
+    margin-left: 300px;
+    padding-left: 85px;
+    padding-top: 11px;
+    margin-top: 1px;
+    margin-right: 2px;
+   
 }
 
 #tab3{
 
-    border: 2px solid black;
-    margin-left: 860px;
-    padding-left: 100px;
-    padding-top: 80px;
-     margin-top: 10px;
+   border: 2px solid black;
+    margin-left: 20px;
+    padding-left: 85px;
+    padding-top: 18px;
+    margin-top: 60px;
+    margin-right: 2100px;
 }
 
 *{
@@ -44,5 +46,39 @@ background-color: #6b7970;
 #golem{
 width: 170px;
 height: 150px;
-padding-left: 850px;
+padding-left: 20px;
+}
+
+#golem2{
+width: 170px;
+height: 150px;
+padding-left: 100px;
+padding-top: 10px;
+}
+
+#golem3{
+width: 170px;
+height: 150px;
+padding-left: 100px;
+}
+
+#golem4{
+width: 170px;
+height: 150px;
+padding-left: 100px;
+}
+#golem5{
+width: 170px;
+height: 150px;
+padding-left: 100px;
+}
+#golem6{
+width: 170px;
+height: 150px;
+padding-left: 100px;
+}
+#golem7{
+width: 170px;
+height: 150px;
+padding-left: 100px;
 }
