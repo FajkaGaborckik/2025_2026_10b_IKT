@@ -50,3 +50,11 @@ padding-left: 850px;
 .tabla1 {
     background-color:blueviolet ;
 }
+<style>
+        body {
+            background-image: url('alma.jpg');
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-position: center
+        }
+</style>
