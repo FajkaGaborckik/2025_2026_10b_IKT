@@ -10,7 +10,7 @@ border: 2px solid black;
 
 #tab1{
   border: 2px solid black;
-    margin-left: 60px;
+    margin-left: 840px;
     padding-left: 100px;
     padding-top: 70px;
     margin-top: 50px;
@@ -18,7 +18,7 @@ border: 2px solid black;
 
 #tab2{
      border: 2px solid black;
-    margin-left: 60px;
+    margin-left: 860px;
     padding-left: 100px;
     padding-top: 80px;
     margin-top: 50px;
@@ -28,13 +28,19 @@ border: 2px solid black;
 #tab3{
 
     border: 2px solid black;
-    margin-left: 60px;
+    margin-left: 860px;
     padding-left: 100px;
     padding-top: 80px;
      margin-top: 10px;
 }
 
 *{
-background-color: aqua;
+background-color: #6b7970;
 
+}
+
+#golem{
+width: 170px;
+height: 150px;
+padding-left: 850px;
 }
