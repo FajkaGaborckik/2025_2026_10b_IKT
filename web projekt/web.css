@@ -46,15 +46,16 @@ width: 170px;
 height: 150px;
 padding-left: 850px;
 }
+.body {
+    background-image: url('alma.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center
+ }
 
-.tabla1 {
-    background-color:blueviolet ;
-}
-<style>
-        body {
-            background-image: url('alma.jpg');
-            background-size: cover;
-            background-repeat: no-repeat; 
-            background-position: center
-        }
-</style>
+ .alma {
+    background-image: url('alma.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center   
+ }
