@@ -19,7 +19,7 @@ border: 2px solid black;
 }
 
 #tab2{
-     border: 2px solid black;
+    border: 2px solid black;
     margin-left: 860px;
     padding-left: 100px;
     padding-top: 80px;
@@ -37,7 +37,7 @@ border: 2px solid black;
 }
 
 *{
-background-color: rgb(90, 90, 136);
+background-color: goldenrod;
 
 }
 
@@ -46,16 +46,3 @@ width: 170px;
 height: 150px;
 padding-left: 850px;
 }
-.body {
-    background-image: url('alma.jpg');
-    background-size: cover;
-    background-repeat: no-repeat; 
-    background-position: center
- }
-
- .alma {
-    background-image: url('alma.jpg');
-    background-size: cover;
-    background-repeat: no-repeat; 
-    background-position: center   
- }
